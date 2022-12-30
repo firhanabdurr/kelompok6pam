@@ -27,7 +27,7 @@ import androidx.localbroadcastmanager.content.LocalBroadcastManager
 import com.codingwithme.notesapp.BaseFragment
 import com.kelompokenam.aplikasinote.database.NotesDatabase
 import com.kelompokenam.aplikasinote.entities.Notes
-import com.kelompokenam.aplikasinote.util.NoteBottomSheetFragment
+import com.kelompokenam.aplikasinote.utils.NoteBottomSheetFragment
 import com.theartofdev.edmodo.cropper.CropImage
 import com.theartofdev.edmodo.cropper.CropImageView
 import kotlinx.android.synthetic.main.fragment_create_note.*
