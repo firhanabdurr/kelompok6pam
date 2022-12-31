@@ -1,6 +1,6 @@
 # Catetin
 # Catatan Digital
-
+[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
 # Tim Kami :
 1. Eka Jacinda Rahmawati        1207050032
 2. Firhan Abdurrahman           1207050040
@@ -27,7 +27,7 @@ Sebagai solusi permasalahan ini kami membuat sebuah aplikasi notes yang bisa dia
 4. Mencari Catatan : Memudahkan untuk menemukan catatan yang dituju.
 
 # Link Pitch Deck 
-[Pitch Deck] (https://docs.google.com/presentation/d/1xsNxKwRVl9zNbbddaPd92Kai4BlISQ0c/edit?usp=sharing&ouid=107036395810341537604&rtpof=true&sd=true)
+[Pitch Deck](https://docs.google.com/presentation/d/1xsNxKwRVl9zNbbddaPd92Kai4BlISQ0c/edit?usp=sharing&ouid=107036395810341537604&rtpof=true&sd=true) 
 
 # Tampilan Aplikasi :
 - tampilan awal dengan memuat satu catatan
