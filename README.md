@@ -26,7 +26,8 @@ Sebagai solusi permasalahan ini kami membuat sebuah aplikasi notes yang bisa dia
 3. Menghapus Catatan : Dapat menghapus catatan yang sekiranya sudah tidak diperlukan.
 4. Mencari Catatan : Memudahkan untuk menemukan catatan yang dituju.
 
-# Link Pitch Deck : https://docs.google.com/presentation/d/1xsNxKwRVl9zNbbddaPd92Kai4BlISQ0c/edit?usp=sharing&ouid=107036395810341537604&rtpof=true&sd=true
+# Link Pitch Deck 
+[Pitch Deck] (https://docs.google.com/presentation/d/1xsNxKwRVl9zNbbddaPd92Kai4BlISQ0c/edit?usp=sharing&ouid=107036395810341537604&rtpof=true&sd=true)
 
 # Tampilan Aplikasi :
 - tampilan awal dengan memuat satu catatan
