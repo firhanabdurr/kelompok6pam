@@ -30,10 +30,13 @@ Sebagai solusi permasalahan ini kami membuat sebuah aplikasi notes yang bisa dia
 
 # Tampilan Aplikasi :
 - tampilan awal dengan memuat satu catatan
-![image](https://user-images.githubusercontent.com/96488216/210119231-08143908-b28e-44f7-8a6c-78ea1fbdca17.png)
+  
+  ![image](https://user-images.githubusercontent.com/96488216/210119231-08143908-b28e-44f7-8a6c-78ea1fbdca17.png)
 - tampilan untuk mengisi/mengedit catatan.
-![image](https://user-images.githubusercontent.com/96488216/210119249-964b397f-775c-4a7a-aed9-796a89b1a7d2.png)
+  
+  ![image](https://user-images.githubusercontent.com/96488216/210119249-964b397f-775c-4a7a-aed9-796a89b1a7d2.png)
 - warna catatan juga bisa diatur sesuai keinginan, dan juga memiliki fitur penambahan gambar dan link web.
-![image](https://user-images.githubusercontent.com/96488216/210119267-31475857-bb02-42c7-b051-357a09150bea.png)
+  
+  ![image](https://user-images.githubusercontent.com/96488216/210119267-31475857-bb02-42c7-b051-357a09150bea.png)
 
 
