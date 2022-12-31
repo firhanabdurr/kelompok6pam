@@ -13,10 +13,10 @@ Kegiatan catat-mencatat menjadi suatu Aktivitas sudah sering dilakukan oleh berb
 Sebagai solusi permasalahan ini kami membuat sebuah aplikasi notes yang bisa diakses menggunakan android yang bisa menyimpan banyak catatan sehingga tidak akan terlalu merepotkan saat kita perlu membawa nya kemana-mana, dan kekhawatiran untuk kehilangan catatan-catatan yang telah kita buat akan berkurang.
 
 # Sisi Pasar Kami
-# Keuntungan bagi user :
+* Keuntungan bagi user :
 1. Bisa dibuka kapan saja
 2. Gratis 
-# Manfaat bagi user :
+* Manfaat bagi user :
 1. Notebook
 2. Manajemen Catatan secara digital
 
