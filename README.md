@@ -1,6 +1,6 @@
-# Catetin
-## Catatan Digital
-
+<h1 align="center"> Catetin <h1>
+<h2 align="center"> Catatan Digital <h2>
+ 
 <p align="center">
   <a href="http://if.uinsgd.ac.id/">Teknik Informatika</a> <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati Bandung</a>
 <p>
