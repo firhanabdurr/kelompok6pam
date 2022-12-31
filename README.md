@@ -5,10 +5,8 @@
   <a href="http://if.uinsgd.ac.id/">Teknik Informatika</a> <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati Bandung</a>
 <p>
 
-# Tim Kami :
-1. Eka Jacinda Rahmawati        1207050032
-2. Firhan Abdurrahman           1207050040
-3. Jessy Faujiyyah Khairani     1207050137
+![image](https://user-images.githubusercontent.com/96488216/210120993-10fd190b-573f-4e5f-949b-1b59b33a06c5.png)
+
 
 # Latar Belakang
 Kegiatan catat-mencatat menjadi suatu Aktivitas sudah sering dilakukan oleh berbagai kalangan, aktivitas ini sangat berguna sebagai pengingat hal-hal penting menggunakan tulisan, seperti daftar tugas kuliah, daftar belanjaan, rencana rapat dan lain sebagainya. Namun, akan terasa merepotkan jika kita perlu membawa semua catatan itu kemana-mana, apalagi jika catatan itu sampai hilang, dengan begitu kita harus menulis ulang semuanya.
