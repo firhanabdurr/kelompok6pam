@@ -1,6 +1,10 @@
 # Catetin
-# Catatan Digital
-[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
+## Catatan Digital
+
+<p align="center">
+  <a href="http://if.uinsgd.ac.id/">Teknik Informatika</a> <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati Bandung</a>
+<p>
+
 # Tim Kami :
 1. Eka Jacinda Rahmawati        1207050032
 2. Firhan Abdurrahman           1207050040
